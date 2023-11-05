@@ -1,7 +1,7 @@
 #### OIBSIP_Taskno2
 # Tribute Page: Dr. APJ Abdul Kalam
 
-![APJ Abdul Kalam](kalam.jpg)
+![APJ Abdul Kalam](apj.jpg)
 
 A tribute page dedicated to the memory of Dr. APJ Abdul Kalam, former President of India, renowned scientist, and a great visionary. This page serves as a homage to his life and contributions.
 
